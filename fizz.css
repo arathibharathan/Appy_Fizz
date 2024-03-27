@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+
+}
+.header{
+    width:100%;
+    height:70px;
+    background: black;
+    cursor: pointer;
+    position: fixed;
+    z-index: 1;
+    
+   
+}
+.parle{
+    width:200px;
+    height:70px;
+    float: left;
+}
+.img{
+    width:119px;
+    height:auto;
+    padding-top: 25px;
+    padding-left: 15px;
+}
+.list{
+    list-style-type: none;
+    overflow: hidden;
+    color:#fff;
+   padding-left: 10px;
+}
+li{
+    float: left;
+    padding-left: 73px;
+    font-family: "merivaregular";
+    padding-top: 25px;
+}
+li:hover{
+    color: red;
+}
+.img1{
+    width: 100%;
+    height: auto;
+}
+.middle{
+    width: 100%;
+    height: 800px;
+}
+.middle-left{
+    width:50%;
+    height: 800px;
+    background: rgb(0, 0, 0);
+    float: left;
+    text-align: center;
+}
+.img3{
+    width: 165px;
+    height: auto;
+    padding-left: 6px;
+    padding-top: 200px;
+
+}
+.text{
+    font-size: 86px;
+    font-weight:bold;
+    font-family: "EksellDisplayWeb-Small";
+    color: white;
+    position: relative;
+    bottom: 371px;
+
+}
+.middle-right{
+    width:50%;
+    height: 800px;
+    float: left;
+}
+.para{
+    font-size: 24px;
+    font-family: "merivaregular";
+    text-align: left;
+    line-height: 1.2;
+    margin-left: 130px;
+    padding-top: 100px;
+}
+.icon{
+    padding-left: 130px;
+    font-size: 30px;
+}
+.fizz2{
+    width: 100%;
+    height: auto;
+}
+.footer{
+    width: 100%;
+    height:300px
+}
+.footer1{
+    width: 35%;
+    height:300px;
+    line-height: 1.2;
+    float: left;
+}
+.footer2{
+    width: 30%;
+    height:300px;
+    line-height: 1.2;
+    float: left;
+
+}
+.footer3{
+    width: 35%;
+    height:300px;
+    line-height: 1.2;
+    float: left;
+}
+.fa-brands:hover{
+     color:orangered;
+     font-size: 10px;
+}
