@@ -27,11 +27,11 @@
     list-style-type: none;
     overflow: hidden;
     color:#fff;
-   padding-left: 10px;
+   padding-left: 8px;
 }
 li{
     float: left;
-    padding-left: 73px;
+    padding-left: 50px;
     font-family: "merivaregular";
     padding-top: 25px;
 }
